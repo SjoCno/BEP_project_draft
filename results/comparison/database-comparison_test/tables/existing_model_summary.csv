@@ -1,0 +1,5 @@
+model_name,safe_name,prediction_column_dH,prediction_column_ic,param_count,available_dH,available_ic
+sellmeijer,sellmeijer,H_c_sellmeijer,i_c_sellmeijer,5,True,True
+Bligh,Bligh,H_c_bligh,i_c_bligh,2,True,True
+schmertmann,schmertmann,H_c_schmertmann,i_c_schmertmann,4,True,True
+sd,sd,H_c_SD,i_c_SD,5,True,True
